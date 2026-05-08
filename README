@@ -1,0 +1,29 @@
+# Expense Tracker (Python)
+
+## Description
+This is a console-based Python application that allows users to track their expenses.  
+The program lets users add, view, update, and delete expenses.  
+All data is stored in a SQLite database so it is saved even after the program is closed.
+
+---
+
+## Features
+- Add new expenses  
+- View all expenses  
+- Update existing expenses  
+- Delete expenses  
+- Data is saved using a database (SQLite)  
+
+---
+
+## Technologies Used
+- Python  
+- SQLite (database)  
+- Object-Oriented Programming (OOP)  
+
+---
+
+## How to Run
+1. Open the project folder in VS Code  
+2. Make sure Python is installed  
+3. Run the file:
